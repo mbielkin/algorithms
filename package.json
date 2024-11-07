@@ -1,0 +1,9 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mbielkin/algorithms.git",
+  "author": "Maks the Developer <maksym.belkin@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
